@@ -2,7 +2,7 @@
 
 This project is a simple HTML page that shows a recipe for strawberry banana cake.
 
-🌐 **Live web page:** [View on Netlify](https://your-site-name.netlify.app) 
+🌐 **Live web page:** [View on Netlify](https://fluffy-cake-recipe.netlify.app/) 
 
 ## What the project includes:
 - Recipe name and description
