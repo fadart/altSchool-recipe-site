@@ -2,6 +2,8 @@
 
 This project is a simple HTML page that shows a recipe for strawberry banana cake.
 
+🌐 **Live web page:** [View on Netlify](https://your-site-name.netlify.app) 
+
 ## What the project includes:
 - Recipe name and description
 - Recipe information (prep time, cook time, servings, difficulty)
